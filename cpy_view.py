@@ -5,6 +5,7 @@ y=arr.copy()#makes a copy of an orignal array
 print(x)
 print(y)
 x[0]=55
+print(y)
 y[0]=66
 print(arr)
 print(x)
