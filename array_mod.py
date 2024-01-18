@@ -10,7 +10,7 @@ print(arr)
 
 print ("Adding 1 to every element:", arr1 + 1)
 
-print ("\nSubtracting 2 from each element:", arr2 - 2)
+print ("\nSubtracting 2 from each element:", arr2 - 2)#but no change is made on the original array 
 print(arrH)
 print(arr1)
 print(arr2)
