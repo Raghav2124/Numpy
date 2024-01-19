@@ -9,4 +9,7 @@ print ("Row-wise sorted array:\n", np.sort(a, axis = 1))
 
 # specify sort algorithm 
 print ("Column wise :\n", np.sort(a, axis = 0)) 
-
+#numpy.add is used for element-wise addition, while numpy.sum is used for aggregating values along specified axes or across all axes
+print(np.empty([4, 3]))# create a new array of given shape and type, without initializing value
+print(np.ones([3,3]))#This function is used to get a new array of given shape and type, filled with ones(1).
+print(np.zeros([5,5]))#This function is used to get a new array of given shape and type, filled with zeros(0). 
