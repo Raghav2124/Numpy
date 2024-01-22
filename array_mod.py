@@ -16,3 +16,4 @@ print(arr1)
 print(arr2)
 print(arr3)
 print(arr.ndim)#prints the arr dimensions of the current array 
+# the order parameter is related to the memory layout of an array, while the axis parameter is related to the axis or axes along which operations are performed on an array.
