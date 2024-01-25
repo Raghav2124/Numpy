@@ -14,7 +14,6 @@ import numpy as np
 #     filter_arr.append(False)
 
 # newarr = arr[filter_arr]
-
 # print(filter_arr)
 # print(newarr)
 #alternate method
